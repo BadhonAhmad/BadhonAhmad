@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Final-year+CSE+Student;Backend+Developer+(Java%2C+Spring+Boot%2C+Node.js);Full-stack+MERN+Explorer;AI%2FML+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+MERN+Explorer+(Java%2C+Spring+Boot%2C);Final-year+CSE+Student;AI%2FML+Enthusiast)
 
 </div>
 
