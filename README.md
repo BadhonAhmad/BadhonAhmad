@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Nobel Ahmad Badhon  
 
-🚀 **Final-year CSE Student | Backend Developer (Java, Spring Boot, Node.js) | Full-stack MERN Explorer | AI/ML Enthusiast**
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Final-year+CSE+Student;Backend+Developer+(Java%2C+Spring+Boot%2C+Node.js);Full-stack+MERN+Explorer;AI%2FML+Enthusiast)
+
+</div>
 
 ---
 
@@ -18,53 +22,144 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C, C++, Java, Python, JavaScript, TypeScript  
-**Backend:** Node.js, Express, Spring Boot, MongoDB, MySQL  
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Tools:** Git, Linux  
-**AI/ML:** OpenAI API, Computer Vision (YOLO, OpenCV)  
+### **Languages:**
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+### **Backend:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### **Frontend:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### **Tools & Platforms:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 📘 [EduVerse](https://github.com/md-abdullah-92/Eduverse)  
-AI-powered **online education platform**  
+**AI-powered online education platform**  
 - Integrated **OpenAI API with RAG** for quiz generation from PDFs  
 - Teachers can upload videos, PDFs & manage courses  
 - Drag-and-drop content organization, note-taking system with CRUD  
 - Student exam system with automated question generation  
-*Stack: Next.js, Express, React, MySQL, OpenAI*  
 
----
-
-### 🏠 [ACCOMO Android App](https://github.com/BadhonAhmad/ACCOMO-Android-App)  
-Rental Resident **Management Platform**  
-- Owner–renter communication system  
-- Rent payment tracking & due reminders  
-- Dashboard for owners to monitor payments  
-- Streamlined rental process, reducing manual work  
-*Stack: Kotlin, MySQL*  
-
----
-
-### 🎨 [Child Learning Web](https://github.com/BadhonAhmad/Child-Learning-App)  
-Interactive **educational app for children**  
-- Colorful interface with interactive modules (alphabets, poems, animals)  
-- Child-friendly quizzes and GK modules  
-- Applied **OOP principles** for modular & maintainable design  
-*Stack: JavaFX, Swing, OOP*  
-
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="mailto:ahmadbadhon28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/badhon-ahmad-5a5894225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/BadhonAhmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/BADHON30"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
 ---
 
-✨ *“Code is like poetry – simplicity with power.”* ✨  
+### 🏠 [ACCOMO Android App](https://github.com/BadhonAhmad/ACCOMO-Android-App)  
+**Rental Resident Management Platform**  
+- Owner–renter communication system  
+- Rent payment tracking & due reminders  
+- Dashboard for owners to monitor payments  
+- Streamlined rental process, reducing manual work  
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+---
+
+### 🎨 [Child Learning Web](https://github.com/BadhonAhmad/Child-Learning-App)  
+**Interactive educational app for children**  
+- Colorful interface with interactive modules (alphabets, poems, animals)  
+- Child-friendly quizzes and GK modules  
+- Applied **OOP principles** for modular & maintainable design  
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadhonAhmad&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonAhmad&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/BADHON30">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:ahmadbadhon28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/badhon-ahmad-5a5894225">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BadhonAhmad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codeforces.com/profile/BADHON30">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+### ✨ *"Code is like poetry – simplicity with power."* ✨  
+
+![Profile Views](https://komarev.com/ghpvc/?username=BadhonAhmad&color=brightgreen&style=for-the-badge)
+
+</div>
