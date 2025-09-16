@@ -1,10 +1,23 @@
 # 👋 Hi, I'm Nobel Ahmad Badhon  
 
 <div align="center">
+  <!-- paste the SVG content here (same as above) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" role="img" aria-label="Profile lines">
+    <rect width="100%" height="100%" fill="transparent"/>
+    <style>
+      .line { font-family: 'Fira Code', monospace; fill: #36BCF7; font-weight: 600; }
+      .l1 { font-size: 20px; }
+      .l2 { font-size: 18px; }
+      .l3 { font-size: 18px; }
+      text { text-anchor: middle; }
+    </style>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+MERN+Explorer+(Java%2C+Spring+Boot%2C);Final-year+CSE+Student;AI%2FML+Enthusiast)
-
+    <text x="300" y="34" class="line l1">Full-stack MERN Explorer (Java, Spring Boot,)</text>
+    <text x="300" y="64" class="line l2">Final-year CSE Student</text>
+    <text x="300" y="94" class="line l3">AI/ML Enthusiast</text>
+  </svg>
 </div>
+
 
 ---
 
