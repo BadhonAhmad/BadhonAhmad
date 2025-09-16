@@ -1,23 +1,19 @@
 # 👋 Hi, I'm Nobel Ahmad Badhon  
----
 
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" role="img" aria-label="Profile lines">
     <rect width="100%" height="100%" fill="transparent"/>
-    <style>
-      .line { font-family: 'Fira Code', monospace; fill: #36BCF7; font-weight: 600; }
-      .l1 { font-size: 20px; }
-      .l2 { font-size: 18px; }
-      .l3 { font-size: 18px; }
-      text { text-anchor: middle; }
-    </style>
-  <text x="300" y="34" class="line l1">Full-stack MERN Explorer (Java, Spring Boot,)</text>
-  <text x="300" y="64" class="line l2">Final-year CSE Student</text>
-  <text x="300" y="94" class="line l3">AI/ML Enthusiast</text>
+    <text x="300" y="34" font-family="Fira Code, monospace" font-size="20px" fill="#36BCF7" font-weight="600" text-anchor="middle">
+      Full-stack MERN Explorer (Java, Spring Boot,)
+    </text>
+    <text x="300" y="64" font-family="Fira Code, monospace" font-size="18px" fill="#36BCF7" font-weight="600" text-anchor="middle">
+      Final-year CSE Student
+    </text>
+    <text x="300" y="94" font-family="Fira Code, monospace" font-size="18px" fill="#36BCF7" font-weight="600" text-anchor="middle">
+      AI/ML Enthusiast
+    </text>
   </svg>
 </div>
-
----
 
 ## 🌟 About Me
 - 🎓 Final Year **CSE Student** at Shahjalal University of Science and Technology, Bangladesh  
