@@ -8,22 +8,15 @@
         <stop offset="100%" stop-color="#2A82FA"/>
       </linearGradient>
     </defs>
-
-    <!-- Rounded card background -->
     <rect x="20" y="20" width="660" height="140" rx="18" fill="#0A0F1A" stroke="url(#grad)" stroke-width="2"/>
-
-    <!-- Main Title -->
     <text x="350" y="70" font-family="Fira Code, monospace" font-size="22px"
           fill="url(#grad)" font-weight="700" text-anchor="middle">
       Full-stack MERN Explorer · Java & Spring Boot
     </text>
-
-    <!-- Sub Texts -->
     <text x="350" y="105" font-family="Fira Code, monospace" font-size="18px"
           fill="#B7E7FF" font-weight="500" text-anchor="middle">
       Final-year CSE Student
     </text>
-
     <text x="350" y="135" font-family="Fira Code, monospace" font-size="18px"
           fill="#B7E7FF" font-weight="500" text-anchor="middle">
       AI / ML Enthusiast
