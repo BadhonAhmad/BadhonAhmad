@@ -1,16 +1,32 @@
 # 👋 Hi, I'm Nobel Ahmad Badhon  
 
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" role="img" aria-label="Profile lines">
-    <rect width="100%" height="100%" fill="transparent"/>
-    <text x="300" y="34" font-family="Fira Code, monospace" font-size="20px" fill="#36BCF7" font-weight="600" text-anchor="middle">
-      Full-stack MERN Explorer (Java, Spring Boot,)
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180" role="img" aria-label="Profile header">
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#36BCF7"/>
+        <stop offset="100%" stop-color="#2A82FA"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Rounded card background -->
+    <rect x="20" y="20" width="660" height="140" rx="18" fill="#0A0F1A" stroke="url(#grad)" stroke-width="2"/>
+
+    <!-- Main Title -->
+    <text x="350" y="70" font-family="Fira Code, monospace" font-size="22px"
+          fill="url(#grad)" font-weight="700" text-anchor="middle">
+      Full-stack MERN Explorer · Java & Spring Boot
     </text>
-    <text x="300" y="64" font-family="Fira Code, monospace" font-size="18px" fill="#36BCF7" font-weight="600" text-anchor="middle">
+
+    <!-- Sub Texts -->
+    <text x="350" y="105" font-family="Fira Code, monospace" font-size="18px"
+          fill="#B7E7FF" font-weight="500" text-anchor="middle">
       Final-year CSE Student
     </text>
-    <text x="300" y="94" font-family="Fira Code, monospace" font-size="18px" fill="#36BCF7" font-weight="600" text-anchor="middle">
-      AI/ML Enthusiast
+
+    <text x="350" y="135" font-family="Fira Code, monospace" font-size="18px"
+          fill="#B7E7FF" font-weight="500" text-anchor="middle">
+      AI / ML Enthusiast
     </text>
   </svg>
 </div>
