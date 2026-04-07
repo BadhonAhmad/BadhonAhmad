@@ -24,16 +24,16 @@
 ```yaml
 name        : Nobel Ahmad Badhon
 location    : Sylhet, Bangladesh 🇧🇩
-education   : B.Sc. CSE @ SUST (Final Year)
+education   : B.Sc. CSE @ SUST (Graduate)
 focus       : Backend · Full-Stack · AI/ML
 available   : Open to Internships & Opportunities
 ```
 
-- 🎓 Final Year **CSE Student** at **Shahjalal University of Science and Technology**
+- 🎓 **CSE Graduate** From **Shahjalal University of Science and Technology**
 - 💻 Strong in **Backend Development** with **Java/Spring Boot, Node.js, Express, MongoDB, MySQL**
 - ⚡ Experienced in **Frontend** with **Next.js, TypeScript, Tailwind CSS**
 - 🤖 Passionate about **AI/ML** — NLP, Computer Vision, LLMs in EdTech
-- 🏆 **Competitive Programmer** — 2500+ problems solved across platforms
+- 🏆 **Competitive Programmer** — 2000+ problems solved across platforms
   - Codeforces **Max 1260** (Pupil) · CodeChef **Max 1505** (2★) · AtCoder **332**
 
 ---
@@ -199,9 +199,9 @@ available   : Open to Internships & Opportunities
 | Platform | Handle | Rating / Level |
 |----------|--------|----------------|
 | 🟦 Codeforces | [BADHON30](https://codeforces.com/profile/BADHON30) | Max **1260** — Pupil |
-| 🟫 CodeChef | — | Max **1505** — 2★ |
-| ⬛ AtCoder | — | **332** |
-| 🟡 LeetCode | — | 2500+ Problems |
+| 🟫 CodeChef | [badhon30](https://www.codechef.com/users/badhon30) | Max **1505** — 2★ |
+| ⬛ AtCoder | [BADHON30](https://atcoder.jp/users/BADHON30) | **332** |
+| 🟡 LeetCode | [BADHON30](https://leetcode.com/u/BADHON30/) | 230+ Problems |
 
 > 🧩 **2500+ algorithm problems** solved across CF · CC · AtCoder · Vjudge · LeetCode
 
