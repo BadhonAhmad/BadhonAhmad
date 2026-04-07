@@ -99,10 +99,67 @@ available   : Open to Internships & Opportunities
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎯 Smart IELTS</h3>
+      <div align="center">
+        <a href="https://github.com/BadhonAhmad/Smart-IELTS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=Smart-IELTS&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/🏆_Ranked_4th-Inter--University_National_Hackathon_@_GUB-FFD700?style=flat-square"/>
+        </p>
+        <p>
+          <strong>AI-Powered IELTS Preparation Platform</strong><br/>
+          AI question generation · ElevenLabs voice simulation · Auto band-score evaluation
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+          <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google"/>
+          <img src="https://img.shields.io/badge/ElevenLabs-000?style=flat-square"/>
+        </p>
+        <p>
+          <a href="https://github.com/BadhonAhmad/Smart-IELTS">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://www.youtube.com/watch?v=mgMEFtJPmYY">
+            <img src="https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌾 Agribazaar</h3>
+      <div align="center">
+        <a href="https://github.com/md-abdullah-92/sust_unknowns_agribazaar">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-abdullah-92&repo=sust_unknowns_agribazaar&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/🏅_JavaFest--2024_Project-2CA5E0?style=flat-square"/>
+        </p>
+        <p>
+          <strong>AI-Powered Agri-Marketplace</strong><br/>
+          Crop recommendations · OTP-verified transactions · Real-time communication · Stripe payments
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring"/>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+          <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoft-azure"/>
+          <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe"/>
+        </p>
+        <p>
+          <a href="https://github.com/md-abdullah-92/sust_unknowns_agribazaar">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">📘 EduVerse</h3>
@@ -111,8 +168,8 @@ available   : Open to Internships & Opportunities
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-abdullah-92&repo=Eduverse&theme=radical&hide_border=true" width="100%"/>
         </a>
         <p>
-          <strong>AI-powered Online Education Platform</strong><br/>
-          OpenAI API + RAG for quiz generation from PDFs · Course & video management · Automated exam system
+          <strong>AI-Powered E-Learning Platform</strong><br/>
+          OpenAI + RAG quiz generation from PDFs · Video & course management · Drag-and-drop organization
         </p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
@@ -120,56 +177,102 @@ available   : Open to Internships & Opportunities
           <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql"/>
           <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
         </p>
+        <p>
+          <a href="https://github.com/md-abdullah-92/Eduverse">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+        </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏠 ACCOMO Android App</h3>
+      <h3 align="center">🏥 SmartPrescription</h3>
       <div align="center">
-        <a href="https://github.com/BadhonAhmad/ACCOMO-Android-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=ACCOMO-Android-App&theme=radical&hide_border=true" width="100%"/>
+        <a href="https://github.com/BadhonAhmad/SmartPrescription">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=SmartPrescription&theme=radical&hide_border=true" width="100%"/>
         </a>
         <p>
-          <strong>Rental Resident Management Platform</strong><br/>
-          Owner–renter communication · Rent tracking & due reminders · Dashboard analytics
+          <img src="https://img.shields.io/badge/🏅_Selected_for_Final_Round-CMED_Health-00C853?style=flat-square"/>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin"/>
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql"/>
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android"/>
+          <strong>Modern Clinic Management System</strong><br/>
+          Doctor-style prescription layout · Patient history · Drug database · JWT role-based auth
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring"/>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript"/>
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
+        </p>
+        <p>
+          <a href="https://github.com/BadhonAhmad/SmartPrescription">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://www.youtube.com/watch?v=kcfUuJgYQJo">
+            <img src="https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube"/>
+          </a>
         </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎨 Child Learning Web</h3>
+      <h3 align="center">💰 FinManagement</h3>
       <div align="center">
-        <a href="https://github.com/BadhonAhmad/Child-Learning-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=Child-Learning-App&theme=radical&hide_border=true" width="100%"/>
+        <a href="https://github.com/BadhonAhmad/FinManagement">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=FinManagement&theme=radical&hide_border=true" width="100%"/>
         </a>
         <p>
-          <strong>Interactive Educational App for Children</strong><br/>
-          Colorful UI · Alphabets, poems, animals · Quizzes & GK modules with OOP design
+          <strong>Role-Based Personal Finance Platform</strong><br/>
+          Income/expense charts · Role-based access (Viewer/Analyst/Admin) · JWT auth · Rate limiting
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk"/>
-          <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk"/>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring"/>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript"/>
+          <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square"/>
+        </p>
+        <p>
+          <a href="https://github.com/BadhonAhmad/FinManagement">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://www.youtube.com/watch?v=8_ACB_MY4-s">
+            <img src="https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube"/>
+          </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💡 More Coming Soon...</h3>
+      <h3 align="center">🔗 SnapLink</h3>
       <div align="center">
-        <br/><br/>
-        <p>🔨 Currently building exciting new projects in AI & Full-Stack</p>
-        <p>Stay tuned! ⭐ Star the repos to follow along</p>
-        <br/><br/>
+        <a href="https://github.com/BadhonAhmad/SnapLink">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=SnapLink&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <strong>Modern URL Shortening Application</strong><br/>
+          JWT auth · Custom short codes · Analytics dashboard · Click tracking & referrers
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
+          <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express"/>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+        </p>
+        <p>
+          <a href="https://github.com/BadhonAhmad/SnapLink">
+            <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://www.youtube.com/watch?v=mdbHcTmcLIY">
+            <img src="https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube"/>
+          </a>
+        </p>
       </div>
     </td>
   </tr>
 </table>
-
 ---
+        
+  
 
 ## 📊 GitHub Stats
 
