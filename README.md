@@ -1,181 +1,246 @@
-# 👋 Hi, I'm Nobel Ahmad Badhon  
-
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180" role="img" aria-label="Profile header">
-    <defs>
-      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#36BCF7"/>
-        <stop offset="100%" stop-color="#2A82FA"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="660" height="140" rx="18" fill="#0A0F1A" stroke="url(#grad)" stroke-width="2"/>
-    <text x="350" y="70" font-family="Fira Code, monospace" font-size="22px"
-          fill="url(#grad)" font-weight="700" text-anchor="middle">
-      Full-stack (MERN) Developer · Java & Spring Boot
-    </text>
-    <text x="350" y="105" font-family="Fira Code, monospace" font-size="18px"
-          fill="#B7E7FF" font-weight="500" text-anchor="middle">
-      Final-year CSE Student
-    </text>
-    <text x="350" y="135" font-family="Fira Code, monospace" font-size="18px"
-          fill="#B7E7FF" font-weight="500" text-anchor="middle">
-      AI / ML Enthusiast
-    </text>
-  </svg>
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nobel%20Ahmad%20Badhon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Dedicated%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Dedicated+Problem+Solver+%F0%9F%A7%A0;Full-Stack+MERN+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Engineer+%E2%98%95;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=BadhonAhmad&color=36BCF7&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/BadhonAhmad?label=Followers&style=flat-square&color=36BCF7)](https://github.com/BadhonAhmad)
+[![GitHub stars](https://img.shields.io/github/stars/BadhonAhmad?label=Stars&style=flat-square&color=FFD700)](https://github.com/BadhonAhmad)
+
 </div>
 
-## 🌟 About Me
-- 🎓 Final Year **CSE Student** at Shahjalal University of Science and Technology, Bangladesh  
-- 💻 Strong in **Backend Development** with **Java/Spring Boot, Node.js, Express, MongoDB, MySQL**  
-- ⚡ Experienced in **Frontend** with **Next.js, TypeScript, Tailwind**  
-- 🤖 Passionate about **AI/ML** (NLP, Computer Vision, LLMs in EdTech)  
-- 🏆 **Competitive Programming**:  
-  - Codeforces Max 1260 (Pupil), solved **1000+ problems**  
-  - CodeChef Max 1505 (2★), AtCoder 332  
-  - Solved **2500+ algorithm problems** across CF / CC / AtCoder / Vjudge / LeetCode  
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name        : Nobel Ahmad Badhon
+location    : Sylhet, Bangladesh 🇧🇩
+education   : B.Sc. CSE @ SUST (Final Year)
+focus       : Backend · Full-Stack · AI/ML
+available   : Open to Internships & Opportunities
+```
+
+- 🎓 Final Year **CSE Student** at **Shahjalal University of Science and Technology**
+- 💻 Strong in **Backend Development** with **Java/Spring Boot, Node.js, Express, MongoDB, MySQL**
+- ⚡ Experienced in **Frontend** with **Next.js, TypeScript, Tailwind CSS**
+- 🤖 Passionate about **AI/ML** — NLP, Computer Vision, LLMs in EdTech
+- 🏆 **Competitive Programmer** — 2500+ problems solved across platforms
+  - Codeforces **Max 1260** (Pupil) · CodeChef **Max 1505** (2★) · AtCoder **332**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages:**
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+### 🔤 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-### **Backend:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+### 🖥️ Frontend Development & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
 
-### **Frontend:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+### ⚙️ Backend Development & Database Services
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </p>
 
-### **Tools & Platforms:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+### 📱 App Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Featured Projects  
-
-### 📘 [EduVerse](https://github.com/md-abdullah-92/Eduverse)  
-**AI-powered online education platform**  
-- Integrated **OpenAI API with RAG** for quiz generation from PDFs  
-- Teachers can upload videos, PDFs & manage courses  
-- Drag-and-drop content organization, note-taking system with CRUD  
-- Student exam system with automated question generation  
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
----
-
-### 🏠 [ACCOMO Android App](https://github.com/BadhonAhmad/ACCOMO-Android-App)  
-**Rental Resident Management Platform**  
-- Owner–renter communication system  
-- Rent payment tracking & due reminders  
-- Dashboard for owners to monitor payments  
-- Streamlined rental process, reducing manual work  
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
 ---
 
-### 🎨 [Child Learning Web](https://github.com/BadhonAhmad/Child-Learning-App)  
-**Interactive educational app for children**  
-- Colorful interface with interactive modules (alphabets, poems, animals)  
-- Child-friendly quizzes and GK modules  
-- Applied **OOP principles** for modular & maintainable design  
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📘 EduVerse</h3>
+      <div align="center">
+        <a href="https://github.com/md-abdullah-92/Eduverse">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-abdullah-92&repo=Eduverse&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <strong>AI-powered Online Education Platform</strong><br/>
+          OpenAI API + RAG for quiz generation from PDFs · Course & video management · Automated exam system
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+          <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express"/>
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏠 ACCOMO Android App</h3>
+      <div align="center">
+        <a href="https://github.com/BadhonAhmad/ACCOMO-Android-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=ACCOMO-Android-App&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <strong>Rental Resident Management Platform</strong><br/>
+          Owner–renter communication · Rent tracking & due reminders · Dashboard analytics
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin"/>
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql"/>
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Child Learning Web</h3>
+      <div align="center">
+        <a href="https://github.com/BadhonAhmad/Child-Learning-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonAhmad&repo=Child-Learning-App&theme=radical&hide_border=true" width="100%"/>
+        </a>
+        <p>
+          <strong>Interactive Educational App for Children</strong><br/>
+          Colorful UI · Alphabets, poems, animals · Quizzes & GK modules with OOP design
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk"/>
+          <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💡 More Coming Soon...</h3>
+      <div align="center">
+        <br/><br/>
+        <p>🔨 Currently building exciting new projects in AI & Full-Stack</p>
+        <p>Stay tuned! ⭐ Star the repos to follow along</p>
+        <br/><br/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadhonAhmad&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonAhmad&layout=compact&theme=radical)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BadhonAhmad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BadhonAhmad&theme=radical&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonAhmad&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Competitive Programming Profiles
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BadhonAhmad&theme=radical&no-frame=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Rating / Level |
+|----------|--------|----------------|
+| 🟦 Codeforces | [BADHON30](https://codeforces.com/profile/BADHON30) | Max **1260** — Pupil |
+| 🟫 CodeChef | — | Max **1505** — 2★ |
+| ⬛ AtCoder | — | **332** |
+| 🟡 LeetCode | — | 2500+ Problems |
+
+> 🧩 **2500+ algorithm problems** solved across CF · CC · AtCoder · Vjudge · LeetCode
+
+</div>
 
 <p align="center">
   <a href="https://codeforces.com/profile/BADHON30">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:ahmadbadhon28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/badhon-ahmad-5a5894225">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BadhonAhmad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codeforces.com/profile/BADHON30">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbadhon28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badhon-ahmad-5a5894225)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BadhonAhmad)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BADHON30)
+
+</div>
 
 ---
 
 <div align="center">
-  
-### ✨ *"Code is like poetry – simplicity with power."* ✨  
 
-![Profile Views](https://komarev.com/ghpvc/?username=BadhonAhmad&color=brightgreen&style=for-the-badge)
+### ✨ *"Code is like poetry – simplicity with power."* ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
